@@ -1,0 +1,28 @@
+[{"itemName":"testWeapon1",
+	"atk":1,
+	"strength":1,
+	"power":1,
+	"critical":1,
+	"type":0,
+	"iconStr":"logo_04"
+	},
+	{
+		"itemName": "testWeapon2",
+		"atk": 2,
+		"strength": 2,
+		"power": 2,
+		"critical": 2,
+		"type": 1,
+		"iconStr":"logo_04"
+	},
+	{
+		"itemName": "testWeapon3",
+		"atk": 3,
+		"strength": 3,
+		"power": 3,
+		"critical": 3,
+		"type": 2,
+		"iconStr":"logo_04"
+	}
+]
+	
